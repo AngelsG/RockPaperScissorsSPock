@@ -44,7 +44,7 @@ else if (choice1 === "spock") {
     return "spock always wins!";
         
 }};
-   compare ("userChoice", "computerchoice");
+   alert(compare (userChoice, computerchoice));
    
   
    
